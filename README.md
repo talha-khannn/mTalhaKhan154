@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mohammad Talha Khan
 - 👀 I’m interested in AI/ML and Software Development.
 - 🌱 I’m currently learning JavaScript.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Django, Javascript, and Python.
 - 📫 How to reach me hitalhaprog.mr.notk@gmail.com, [Linked_in](https://www.linkedin.com/in/mohammad-talha-khan/), [Twitter](https://twitter.com/mtalhakhan357)
 
 <!---
