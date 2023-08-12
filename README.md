@@ -2,7 +2,7 @@
 - 👀 I’m interested in AI/ML and Software Development.
 - 🌱 I’m currently learning JavaScript.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me hitalhaprog.mr.notk@gmail.com [Linked in](https://www.linkedin.com/in/mohammad-talha-khan/) [Twitter](https://twitter.com/mtalhakhan357)
+- 📫 How to reach me hitalhaprog.mr.notk@gmail.com, [Linked_in](https://www.linkedin.com/in/mohammad-talha-khan/), [Twitter](https://twitter.com/mtalhakhan357)
 
 <!---
 mTalhaKhan154/mTalhaKhan154 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
